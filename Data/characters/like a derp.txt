@@ -1,0 +1,109 @@
+[ACCOUNT]
+character-username = like a derp
+character-password = 987654312
+
+[CHARACTER]
+character-height = 1
+character-posx = 2791
+character-posy = 2792
+character-rights = 0
+character-ismember = 0
+character-isdonated = 0
+character-messages = 0
+character-lastconnection = 97-88-173-224.dhcp.stls.mo.charter.com
+character-lastlogin = 20131113
+character-energy = 100
+character-gametime = 0
+character-gamecount = 10233
+character-loyaltyRank = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	6739	1	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	1
+character-look = 3	2
+character-look = 4	4
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	72	458700
+character-skill = 1	60	145200
+character-skill = 2	1	0
+character-skill = 3	70	403755
+character-skill = 4	1	3
+character-skill = 5	1	0
+character-skill = 6	73	519795
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	436	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	392	6814997
+character-bank = 1	2416	1
+character-bank = 2	2573	1
+character-bank = 3	996	24901000
+character-bank = 4	1334	1
+character-bank = 6	555	19979
+character-bank = 7	556	19958
+character-bank = 8	566	19989
+character-bank = 9	2905	2
+character-bank = 10	11284	1
+character-bank = 11	6529	1
+character-bank = 12	564	20000
+character-bank = 13	557	19944
+character-bank = 14	558	19992
+character-bank = 15	9749	1
+character-bank = 16	6586	1
+character-bank = 17	561	19995
+character-bank = 18	562	20000
+character-bank = 19	563	19998
+character-bank = 21	567	20000
+character-bank = 22	559	19998
+character-bank = 23	3754	1
+character-bank = 24	6569	1
+character-bank = 25	7463	1
+character-bank = 27	431	1
+character-bank = 28	13602	1
+character-bank = 29	1080	1
+
+[BANK2
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

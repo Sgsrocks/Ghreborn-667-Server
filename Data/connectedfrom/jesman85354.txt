@@ -1,0 +1,2 @@
+new-host.home
+new-host-2.home

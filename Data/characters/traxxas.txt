@@ -1,0 +1,108 @@
+[ACCOUNT]
+character-username = traxxas
+character-password = wmj23
+
+[CHARACTER]
+character-height = 0
+character-posx = 3230
+character-posy = 3434
+character-rights = 3
+character-ismember = 0
+character-isdonated = 0
+character-messages = 0
+character-lastconnection = ttoskippline.net
+character-lastlogin = 20210625
+character-energy = 100
+character-gametime = 1
+character-gamecount = 84558
+character-loyaltyRank = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	8
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	4	150
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	15	1255
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	71	408800
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	2	70
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	113	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	1382	1
+character-bank = 1	1384	1
+character-bank = 2	1610	26
+character-bank = 3	392	15000
+character-bank = 5	555	100000
+character-bank = 6	556	100000
+character-bank = 7	566	100000
+character-bank = 8	557	100000
+character-bank = 9	558	100000
+character-bank = 10	561	100000
+character-bank = 11	562	100000
+character-bank = 12	563	100000
+character-bank = 13	564	100000
+character-bank = 14	567	100000
+character-bank = 15	559	100000
+character-bank = 16	3754	1
+character-bank = 17	6586	1
+character-bank = 18	431	1
+character-bank = 19	1080	1
+character-bank = 20	2905	1
+character-bank = 21	1334	1
+character-bank = 22	2573	1
+character-bank = 23	13602	1
+character-bank = 24	1608	26
+character-bank = 25	1606	104
+character-bank = 26	1616	26
+
+[BANK2
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+
